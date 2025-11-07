@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Applied%20AI-Student%20%7C%20ML%20Engineer-informational" />
   <img src="https://img.shields.io/badge/Location-Miami,%20FL-lightgrey" />
-  <a href="https://www.linkedin.com/in/TBD/">
+  <a href="https://www.linkedin.com/in/illia-shybanov/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
 </p>
