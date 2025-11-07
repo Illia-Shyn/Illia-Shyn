@@ -32,7 +32,7 @@
 - Clean data interfaces for classroom and civic use cases
 
 ### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/TBD/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/illia-shybanov/)
 &nbsp;·&nbsp; Portfolio: `https://www.linkedin.com/in/illia-shybanov/`  
 
 
