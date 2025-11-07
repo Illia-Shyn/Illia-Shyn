@@ -33,7 +33,7 @@
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/TBD/)
-&nbsp;·&nbsp; Portfolio: `https://www.linkedin.com/messaging/thread/2-NDFmZWJiMjItMGZjZS00NDkzLWI4NjMtZWI5YjM0YmM5MjFmXzEwMA==/`  
+&nbsp;·&nbsp; Portfolio: `https://www.linkedin.com/in/illia-shybanov/`  
 Email: `illia.shybanov@gmail.com`
 
 ---
